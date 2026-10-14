@@ -1,0 +1,26 @@
+{
+  "name": "pi-slack-app",
+  "version": "1.0.0",
+  "description": "Slack thread reader / draft-reply extension for the [pi coding agent](https://github.com/badlogic/pi-mono).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkoyama010/pi-slack-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkoyama010/pi-slack-app/issues"
+  },
+  "homepage": "https://github.com/tkoyama010/pi-slack-app#readme",
+  "devDependencies": {
+    "@earendil-works/pi-coding-agent": "latest"
+  },
+  "dependencies": {
+    "typebox": "latest"
+  }
+}
